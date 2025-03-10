@@ -4,6 +4,7 @@ NutriHealth is a web application that provides personalized AI-based insights on
 
 ## Features
 
+-**Packaged Food Scanner**: We can scan a food product, analyze the ingredients, flag harmful chemicals and excessive sugar levels, and assign health ratings to it.
 - **AI-Powered Nutrition Advice**: Get personalized nutrition recommendations based on your goals and preferences
 - **Customized Fitness Plans**: Receive workout plans tailored to your fitness level and goals
 - **User Authentication**: Secure user authentication with Clerk
